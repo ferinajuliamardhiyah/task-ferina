@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:validate/validate.dart';
-
 void main() => runApp(MyApp());
-
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -30,7 +28,7 @@ class _LoginPageState extends State<LoginPage> {
     try {
       Validate.isEmail(value);
     } catch (e) {
-      return 'The E-mail Address must be a valid email address. Euy';
+      return 'The E-mail Address must be a valid email address. salah cuyasdf';
     }
     return null;
   }
@@ -194,10 +192,10 @@ class _LoginPageState extends State<LoginPage> {
                 Container(
                   height: 150,
                   width: 150,
-                  // decoration: BoxDecoration(
-                  //     image: DecorationImage(
-                  //         image: AssetImage('assets/place.png'),
-                  //         fit: BoxFit.fill)),
+                  decoration: BoxDecoration(
+                      image: DecorationImage(
+                          image: AssetImage('assets/place.png'),
+                          fit: BoxFit.fill)),
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.center,
                     mainAxisAlignment: MainAxisAlignment.spaceEvenly,
@@ -242,4 +240,3 @@ class _LoginPageState extends State<LoginPage> {
     );
   }
 }
-
