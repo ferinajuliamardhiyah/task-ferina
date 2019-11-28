@@ -14,4 +14,4 @@ Screenshot
 
 ![Flutter Stateful Widget Task](screenshots/flutter-stateful-widget-3.jpeg)
 
-![Flutter Stateful Widget Task](screenshots/flutter-stateful-widget-4.jpeg)
+![Flutter Stateful Widget Task](screenshots/flutter-stateful-widget-4.jpg)
