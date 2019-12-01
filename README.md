@@ -18,7 +18,7 @@ Screenshot
 
 3. Flutter Navigation
 
-![Flutter Navigation Task](screenshots/navigation-dashboard_page.png)
+![Flutter Navigation Task](screenshots/navigation-dashbord_page.png)
 
 ![Flutter Navigation Task](screenshots/navigation-detail_page.png)
 
