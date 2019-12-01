@@ -15,3 +15,13 @@ Screenshot
 ![Flutter Stateful Widget Task](screenshots/flutter-stateful-widget-3.jpeg)
 
 ![Flutter Stateful Widget Task](screenshots/flutter-stateful-widget-4.jpg)
+
+3. Flutter Navigation
+
+![Flutter Navigation Task](screenshots/navigation-dashboard_page.png)
+
+![Flutter Navigation Task](screenshots/navigation-detail_page.png)
+
+![Flutter Navigation Task](screenshots/navigation-edit_page.png)
+
+![Flutter Navigation Task](screenshots/navigation-add_page.png)
